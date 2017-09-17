@@ -1,0 +1,19 @@
+---
+development:
+  cloud_name: duongthao
+  api_key: '211553867351489'
+  api_secret: AxdYM9Wz3hLS7TBuypiBvtrCp6Y
+  enhance_image_tag: true
+  static_image_support: false
+production:
+  cloud_name: duongthao
+  api_key: '211553867351489'
+  api_secret: AxdYM9Wz3hLS7TBuypiBvtrCp6Y
+  enhance_image_tag: true
+  static_image_support: true
+test:
+  cloud_name: duongthao
+  api_key: '211553867351489'
+  api_secret: AxdYM9Wz3hLS7TBuypiBvtrCp6Y
+  enhance_image_tag: true
+  static_image_support: false

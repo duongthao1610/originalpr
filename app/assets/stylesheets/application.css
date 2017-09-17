@@ -13,7 +13,23 @@
  *= require_tree .
  *= require_self
  */
-body { padding-top: 100px; }
-footer { margin-top: 100px; }
-table, td, th { vertical-align: middle; border: none; }
+body { background-color: lightblue;}
+body { padding-top: 60px; }
+
+table, td, th { vertical-align: middle; border: none;  }
 th { border-bottom: 1px solid #DDD; }
+.navbar {
+  min-height: 38px;
+  background-color: #161823!important;
+  background-image: none !important;
+}
+
+footer {
+  background-color: #ebebeb;
+  padding: 15px 0;
+}
+
+.body-size{
+  min-height:855px;
+}
+
